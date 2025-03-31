@@ -19,7 +19,7 @@ unsigned int digit_100 = 0;
 unsigned int digit_10 = 0;
 unsigned int digit_1 = 0;
 unsigned char dp = 0;          // точка после цифры
-const float k = 0.2198;        // Коэфициент для пересщёта длины
+const float k = 0.2198;        // Коэфициент для пересчёта длины
 
 
 //------------------------------------------------
